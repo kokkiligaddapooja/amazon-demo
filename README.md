@@ -1,2 +1,4 @@
-# amazon-demo
-This is my first repository
+# amazonclone-demo
+This is my first repository and first project
+<br>
+author-k.pooja
